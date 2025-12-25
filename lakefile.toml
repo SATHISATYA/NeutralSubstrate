@@ -1,9 +1,11 @@
 name = "NeutralSubstrate"
 version = "0.1.0"
-defaultTargets = ["neutralsubstrate"]
+defaultTargets = ["StructuralExplainability"]
+keywords = ["ontology", "formal-verification", "structural-explainability"]
+license = "MIT"
 
 [[lean_lib]]
-name = "NeutralSubstrate"
+name = "StructuralExplainability"
 
 [[lean_exe]]
 name = "neutralsubstrate"
