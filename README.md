@@ -29,6 +29,7 @@ Case, D. M. (2025). "The Ontological Neutrality Theorem: Why Neutral Ontological
 ## Verify
 
 ```bash
+lake update
 lake build
 lake exe neutralsubstrate
 ```
