@@ -31,6 +31,10 @@ lake exe verify
 - [Paper to Lean Mapping](./docs/MAPPING.md)
 - [Lean 4 Quick Reference](./docs/LEAN.md)
 
+## Annotations
+
+[ANNOTATIONS.md](./ANNOTATIONS.md)
+
 ## Citation
 
 See [CITATION.cff](./CITATION.cff)
