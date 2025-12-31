@@ -27,8 +27,9 @@ keywords = [
   "accountability",
   "ontological-neutrality",
   "neutral-substrate",
-  "formal-ontology",
+  "formal-specification",
   "formal-verification",
+  "proof-carrying",
   "theorem-proving",
   "lean4"
 ]

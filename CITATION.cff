@@ -1,7 +1,7 @@
 cff-version: "1.2.0"
 type: software
 
-title: "Structural Explainability: Neutral Substrate"
+title: "Structural Explainability: Neutral Substrate Formalization"
 version: "0.1.0"
 date-released: "2025-12-23"
 
@@ -19,8 +19,9 @@ keywords:
   - accountability
   - ontological-neutrality
   - neutral-substrate
-  - formal-ontology
+  - formal-specification
   - formal-verification
+  - proof-carrying
   - theorem-proving
   - lean4
 
